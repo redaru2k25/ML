@@ -1,5 +1,5 @@
 """
-    Gaussian Discriminant Analysis with Log Likelihood Maximization.
+    Gaussian Discriminant Analysis with Log Likelihood Minimization.
     Optimal parameter vlaues are computed in 1 step.
 """
 import numpy as np
